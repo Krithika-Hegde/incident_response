@@ -1,0 +1,5 @@
+{
+  "fault_type": "slow_query",
+  "run_id": 1,
+  "num_requests": 30
+}

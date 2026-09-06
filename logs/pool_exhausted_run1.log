@@ -1,0 +1,30 @@
+2026-01-01T09:00:00 request_id=0 latency_ms=54.7 status=OK
+2026-01-01T09:00:02 request_id=1 latency_ms=41.4 status=OK
+2026-01-01T09:00:04 request_id=2 latency_ms=43.4 status=OK
+2026-01-01T09:00:06 request_id=3 latency_ms=72.4 status=OK
+2026-01-01T09:00:08 request_id=4 latency_ms=56.4 status=OK
+2026-01-01T09:00:10 request_id=5 latency_ms=68.0 status=OK
+2026-01-01T09:00:12 request_id=6 latency_ms=34.3 status=OK
+2026-01-01T09:00:14 request_id=7 latency_ms=35.4 status=OK
+2026-01-01T09:00:16 request_id=8 latency_ms=28.7 status=OK
+2026-01-01T09:00:18 request_id=9 latency_ms=39.1 status=OK
+2026-01-01T09:00:20 request_id=10 status=ERROR error_type=PoolExhaustedError message="No available connections in pool (limit=5, active=6+ during burst)"
+2026-01-01T09:00:22 request_id=11 status=ERROR error_type=PoolExhaustedError message="No available connections in pool (limit=5, active=6+ during burst)"
+2026-01-01T09:00:24 request_id=12 status=ERROR error_type=PoolExhaustedError message="No available connections in pool (limit=5, active=6+ during burst)"
+2026-01-01T09:00:26 request_id=13 status=ERROR error_type=PoolExhaustedError message="No available connections in pool (limit=5, active=6+ during burst)"
+2026-01-01T09:00:28 request_id=14 status=ERROR error_type=PoolExhaustedError message="No available connections in pool (limit=5, active=6+ during burst)"
+2026-01-01T09:00:30 request_id=15 latency_ms=27.8 status=OK
+2026-01-01T09:00:32 request_id=16 latency_ms=47.3 status=OK
+2026-01-01T09:00:34 request_id=17 latency_ms=57.3 status=OK
+2026-01-01T09:00:36 request_id=18 latency_ms=51.5 status=OK
+2026-01-01T09:00:38 request_id=19 latency_ms=49.7 status=OK
+2026-01-01T09:00:40 request_id=20 latency_ms=64.9 status=OK
+2026-01-01T09:00:42 request_id=21 latency_ms=54.6 status=OK
+2026-01-01T09:00:44 request_id=22 latency_ms=63.6 status=OK
+2026-01-01T09:00:46 request_id=23 latency_ms=57.6 status=OK
+2026-01-01T09:00:48 request_id=24 latency_ms=29.2 status=OK
+2026-01-01T09:00:50 request_id=25 latency_ms=48.1 status=OK
+2026-01-01T09:00:52 request_id=26 latency_ms=53.8 status=OK
+2026-01-01T09:00:54 request_id=27 latency_ms=33.1 status=OK
+2026-01-01T09:00:56 request_id=28 latency_ms=39.4 status=OK
+2026-01-01T09:00:58 request_id=29 latency_ms=30.9 status=OK
