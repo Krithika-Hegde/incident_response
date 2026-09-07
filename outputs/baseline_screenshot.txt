@@ -1,0 +1,5 @@
+﻿{
+  "predicted_fault": "dependency_down",
+  "explanation": "Roughly one third of requests fail with 'ConnectionRefusedError ... Could not connect to downstream dependency at db.internal:5432' (request_ids 0, 3, 6, 9, 12, ...), while successful requests keep normal latencies (~28-68 ms). This points to a partially unavailable downstream dependency rather than slow queries or connection pool exhaustion (no timeouts/pool-wait messages, no latency growth).",
+  "confidence": 0.93
+}
