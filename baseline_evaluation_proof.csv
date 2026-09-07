@@ -1,0 +1,17 @@
+log_id,true_fault,predicted_fault_single,correct_single,confidence_single,predicted_fault_pipeline,correct_pipeline,confidence_pipeline,llm_calls_single,llm_calls_pipeline
+dependency_down_run1,dependency_down,dependency_down,True,0.93,dependency_down,True,0.92,1,1
+dependency_down_run2,dependency_down,dependency_down,True,0.93,dependency_down,True,0.9,1,1
+dependency_down_run3,dependency_down,dependency_down,True,0.93,dependency_down,True,0.9,1,1
+dependency_down_run4,dependency_down,dependency_down,True,0.93,dependency_down,True,0.9,1,1
+no_fault_run1,no_fault,no_fault,True,0.95,no_fault,True,0.95,1,1
+no_fault_run2,no_fault,no_fault,True,0.95,no_fault,True,0.96,1,1
+no_fault_run3,no_fault,no_fault,True,0.95,no_fault,True,0.96,1,1
+no_fault_run4,no_fault,no_fault,True,0.95,no_fault,True,0.96,1,1
+pool_exhausted_run1,pool_exhausted,pool_exhausted,True,0.97,pool_exhausted,True,0.93,1,1
+pool_exhausted_run2,pool_exhausted,pool_exhausted,True,0.97,pool_exhausted,True,0.94,1,1
+pool_exhausted_run3,pool_exhausted,pool_exhausted,True,0.97,pool_exhausted,True,0.93,1,1
+pool_exhausted_run4,pool_exhausted,pool_exhausted,True,0.97,pool_exhausted,True,0.93,1,1
+slow_query_run1,slow_query,slow_query,True,0.82,slow_query,True,0.66,1,1
+slow_query_run2,slow_query,slow_query,True,0.85,slow_query,True,0.72,1,1
+slow_query_run3,slow_query,slow_query,True,0.79,slow_query,True,0.62,1,1
+slow_query_run4,slow_query,slow_query,True,0.85,slow_query,True,0.63,1,1
